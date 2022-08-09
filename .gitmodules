@@ -1,0 +1,3 @@
+[submodule "HANSI"]
+	path = HANSI
+	url = https://github.com/nmke-de/HANSI
